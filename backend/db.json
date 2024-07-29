@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A vida é uma jornada cheia de desafios e aprendizados, cada obstáculo é uma oportunidade de crescimento.",
+      "autoria": "Carlos Silva",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A felicidade não está no fim da jornada, mas em cada passo do caminho que percorremos.",
+      "autoria": "Mariana Oliveira",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A coragem não é a ausência do medo, mas a capacidade de enfrentá-lo.",
+      "autoria": "João Pereira",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "autoria": "Ana Souza",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Pedro Santos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "A vida é 10% o que acontece com você e 90% como você reage a isso.",
+      "autoria": "Clara Ferreira",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "Sonhar, afinal, é uma forma de planejamento.",
+      "autoria": "Lucas Almeida",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "O verdadeiro sucesso não é medido pela riqueza, mas pela felicidade que você sente.",
+      "autoria": "Fernanda Lima",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "A mente é tudo. Você se torna aquilo que você pensa.",
+      "autoria": "Guilherme Costa",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 10,
+      "conteudo": "Não espere por uma crise para descobrir o que é importante em sua vida.",
+      "autoria": "Beatriz Ribeiro",
+      "modelo": "modelo1"
+    }
+  ]
+}
