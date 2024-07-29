@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { EModeloPensamento } from 'src/app/shared/enum/EModeloPensamento';
 
 @Component({
   selector: 'app-listar-pensamento',
@@ -7,7 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListarPensamentoComponent implements OnInit {
 
-  listaPensamentos = [];
+  listaPensamentos = [{
+    conteudo: "Teste modelo",
+    autoria: "Werner",
+    modelo: EModeloPensamento.MODELO_1
+  }];
 
   constructor() { }
 
