@@ -1,18 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "A vida é uma jornada cheia de desafios e aprendizados, cada obstáculo é uma oportunidade de crescimento.",
-      "autoria": "Carlos Silva",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "A felicidade não está no fim da jornada, mas em cada passo do caminho que percorremos.",
-      "autoria": "Mariana Oliveira",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "A coragem não é a ausência do medo, mas a capacidade de enfrentá-lo.",
       "autoria": "João Pereira",
@@ -65,12 +53,6 @@
       "autoria": "Dev",
       "modelo": "modelo1",
       "id": 11
-    },
-    {
-      "conteudo": "Testeeeeee",
-      "autoria": "Dev",
-      "modelo": "modelo1",
-      "id": 12
     }
   ]
 }
