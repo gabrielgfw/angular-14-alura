@@ -27,7 +27,7 @@
     {
       "id": 7,
       "conteudo": "Sonhar, afinal, é uma forma de planejamento.",
-      "autoria": "Lucas Almeida",
+      "autoria": "Lucas Almeida teste",
       "modelo": "modelo1"
     },
     {
@@ -47,12 +47,6 @@
       "conteudo": "Não espere por uma crise para descobrir o que é importante em sua vida.",
       "autoria": "Beatriz Ribeiro",
       "modelo": "modelo1"
-    },
-    {
-      "conteudo": "Teste",
-      "autoria": "Dev",
-      "modelo": "modelo1",
-      "id": 11
     }
   ]
 }

@@ -19,6 +19,12 @@ export class PensamentoService {
     return this.http.post<PensamentoModel>(this.API_URL, pensamento);
   }
 
+  editar(pensamento: PensamentoModel): Observable<PensamentoModel> {
+    const URL = `${this.API_URL}/${pensamento.id}`;
+    console.log(`# URL:`, URL);
+    return this.http.put<PensamentoModel>(URL, pensamento);
+  }
+
   excluir(id: number): Observable<PensamentoModel> {
     const URL = `${this.API_URL}/${id}`;
     return this.http.delete<PensamentoModel>(URL);
